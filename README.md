@@ -1,4 +1,4 @@
-# samuel
+# design_website
 
 ## Project setup
 ```
